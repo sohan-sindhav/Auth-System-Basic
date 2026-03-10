@@ -1,0 +1,6 @@
+# .gitignore (in PRACTICE_N_01 root)
+node_modules/
+.env
+dist/
+.DS_Store
+Backend/.env    
